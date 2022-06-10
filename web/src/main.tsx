@@ -8,14 +8,3 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
     <App />
   </React.StrictMode>
 )
-
-const user = {
-  name: 'carlos',
-  age: 28
-}
-
-const gm = { name: 'joao', age: 25 }
-
-const { age } = user
-
-console.log(user)
