@@ -18,7 +18,9 @@ The database  of choice was <img src="https://www.logo.wine/a/logo/PostgreSQL/Po
 👥Users can post three types of 📝feedback:
 
 🐞BUG: in this type of feedback the user reports a bug or any malfunction of the application.
+</br>
 💡IDEA: in this type of feedback the user suggests an idea to improve the website or the user experience in general.
+</br>
 💭OTHER: in this type of feedback the user comments everything else he wants to share with the team responsible for the application.
 
 </br>
